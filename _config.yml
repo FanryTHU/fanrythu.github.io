@@ -4,10 +4,10 @@ SEOTitle: Fanry的博客 | Fanry Blog
 header-img: img/post-bg-desk.jpg
 email: fry17@mails.tsinghua.edu.cn
 description: "Struggle to be stronger."
-keyword: "fanruoyu, Fanry Blog, Fanry的博客, Fanry, fry, iOS, Apple, iPhone"
+keyword: "fanruoyu, Fanry Blog, Fanry的博客, Fanry, fry"
 url: "http://FanryTHU.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/FanryTHU/fanrythu.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
